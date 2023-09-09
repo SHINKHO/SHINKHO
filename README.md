@@ -1,4 +1,11 @@
-### Hi there 👋
+### Shin Kyeongho
+
+Saint Louis University Baguio Graduated
+Bachelor of Science in Computer Sicnece (BSCS)
+
+NEXT IT BootCamp for Spring , Big data and Machine Learning
+
+
 
 <!--
 **SHINKHO/SHINKHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
