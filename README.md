@@ -1,9 +1,10 @@
 ### Shin Kyeongho
 
-Saint Louis University Baguio Graduated
+#Saint Louis University Baguio Graduated
 Bachelor of Science in Computer Sicnece (BSCS)
 
-NEXT IT BootCamp for Spring , Big data and Machine Learning
+#NEXT IT BootCamp 
+for Spring , Big data and Machine Learning
 
 
 
