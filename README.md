@@ -1,12 +1,12 @@
 ### Shin Kyeongho
 
 #### Certified Traning/Diploma
-###### Bachelor of Science in Computer Sicnece (BSCS)
-###### NEXT IT BootCamp (for Spring , Big data and Machine Learning)
+- ###### Bachelor of Science in Computer Sicnece (BSCS)
+- ###### NEXT IT BootCamp (for Spring , Big data and Machine Learning)
 
 #### Career
-###### Website Tester (intern) - VIVIXX ACADEMY
-###### Technician - Balhae IT
+- ###### Website Tester (intern) - VIVIXX ACADEMY
+- ###### Technician - Balhae IT
 
 <!--
 **SHINKHO/SHINKHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
