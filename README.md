@@ -1,4 +1,5 @@
 ### Shin Kyeongho
+- But you can just call me Shin , Much easier ;)
 
 #### Certified Traning/Diploma
 - ###### Bachelor of Science in Computer Sicnece (BSCS)
