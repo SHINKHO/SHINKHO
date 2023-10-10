@@ -1,4 +1,11 @@
+# Kyeongho Shin
 
+<!--Hi I'm Shin born in Republic of Korea
+I took bachelor of science in computer science in Sain Louis University (CICMl, PH) 
+
+Took internship in VIVIXX ACADEMY as full stack stester for their new CMS.
+
+Currently working on Phase-->
 
 <!--
 **SHINKHO/SHINKHO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
